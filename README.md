@@ -1,5 +1,5 @@
 ![vue-movie-website](https://user-images.githubusercontent.com/30265469/99492482-a92a8700-2993-11eb-8831-6471dc6bcbc7.png)
-# frontend
+Movie Recommendation Website in Vuejs - With Laravel Rest API
 
 ## Project setup
 ```
